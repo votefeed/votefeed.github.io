@@ -524,6 +524,7 @@ a.nivo-prevNav:hover {
 	border-radius: 6px 6px 0px 0px;
 	background-color: #f0f0f0;
 	border-radius: 6px;
+	box-shadow: 10px 10px 8px 10px #888888;
 }
 .recentProjectImage {
 	width: 100%;
