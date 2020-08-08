@@ -76,7 +76,8 @@ input[type="submit"] {
 	margin-left: 16px;
 	margin-right: 16px;
 	padding-bottom: 27px;
-	background-color: #fff;
+	/* background-color: #fff; */
+	background-color: #92D7DC;
 	border-radius: 12px;
 	box-shadow: 6px 6px 0px rgba(0,0,0,0.12);
 }
@@ -522,7 +523,8 @@ a.nivo-prevNav:hover {
 	margin-right: 30px;
 	margin-bottom: 27px;
 	border-radius: 6px 6px 0px 0px;
-	background-color: #f0f0f0;
+	background-color: #20A5ED;
+	/*	background-color: #f0f0f0;*/
 	border-radius: 6px;
 	box-shadow: 2px 2px 4px  #888888;
 }
